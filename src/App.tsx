@@ -2,6 +2,8 @@ import ScrollyCanvas from "./components/ScrollyCanvas";
 import AboutMe from "./components/AboutMe";
 import WhatIBring from "./components/WhatIBring";
 import SkillsTools from "./components/SkillsTools";
+import BrandsWorkedFor from "./components/BrandsWorkedFor";
+import SocialMediaManagement from "./components/SocialMediaManagement";
 import AIWorkflow from "./components/AIWorkflow";
 import TheElefhant from "./components/TheElefhant";
 import GrowthAndImpact from "./components/GrowthAndImpact";
@@ -15,6 +17,8 @@ export default function App() {
       <AboutMe />
       <WhatIBring />
       <SkillsTools />
+      <BrandsWorkedFor />
+      <SocialMediaManagement />
       <TheElefhant />
       <GrowthAndImpact />
       <LaunchPosts />

@@ -35,7 +35,7 @@ export default function GrowthAndImpact() {
                 className="border-[4px] border-dashed border-[#8B5CF6] rounded-[2.5rem] p-4 bg-transparent flex-1 flex items-center justify-center"
               >
                 <div className="w-full aspect-square overflow-hidden rounded-2xl shadow-sm">
-                  <img src="WhatsApp Image 2026-03-29 at 6.08.23 PM.jpeg" alt="Audience Growth Chart" className="w-full h-full object-cover" />
+                  <img src="/WhatsApp Image 2026-03-29 at 6.08.23 PM.jpeg" alt="Audience Growth Chart" className="w-full h-full object-cover" />
                 </div>
               </motion.div>
 
@@ -48,10 +48,10 @@ export default function GrowthAndImpact() {
                 className="border-[4px] border-dashed border-[#8B5CF6] rounded-[2.5rem] p-4 bg-transparent flex-[2] flex gap-4 items-center"
               >
                 <div className="flex-1 aspect-square overflow-hidden rounded-2xl shadow-sm">
-                  <img src="WhatsApp Image 2026-03-29 at 6.08.55 PM.jpeg" alt="Views Chart" className="w-full h-full object-cover" />
+                  <img src="/WhatsApp Image 2026-03-29 at 6.08.55 PM.jpeg" alt="Views Chart" className="w-full h-full object-cover" />
                 </div>
                 <div className="flex-1 aspect-square overflow-hidden rounded-2xl shadow-sm">
-                  <img src="WhatsApp Image 2026-03-29 at 6.09.27 PM.jpeg" alt="Interactions Chart" className="w-full h-full object-cover" />
+                  <img src="/WhatsApp Image 2026-03-29 at 6.09.27 PM.jpeg" alt="Interactions Chart" className="w-full h-full object-cover" />
                 </div>
               </motion.div>
             </div>
@@ -93,10 +93,10 @@ export default function GrowthAndImpact() {
               className="border-[4px] border-dashed border-[#8B5CF6] rounded-[2.5rem] p-4 bg-transparent flex gap-4 items-start"
             >
               <div className="flex-[0.8] overflow-hidden rounded-2xl shadow-sm">
-                <img src="WhatsApp Image 2026-03-29 at 6.11.02 PM.jpeg" alt="Linktree Dashboard" className="w-full h-auto" />
+                <img src="/WhatsApp Image 2026-03-29 at 6.11.02 PM.jpeg" alt="Linktree Dashboard" className="w-full h-auto" />
               </div>
               <div className="flex-1 overflow-hidden rounded-2xl shadow-sm">
-                <img src="WhatsApp Image 2026-03-29 at 6.13.31 PM.jpeg" alt="Profile Activity" className="w-full h-auto" />
+                <img src="/WhatsApp Image 2026-03-29 at 6.13.31 PM.jpeg" alt="Profile Activity" className="w-full h-auto" />
               </div>
             </motion.div>
 
@@ -130,7 +130,7 @@ export default function GrowthAndImpact() {
               viewport={{ once: true }}
               className="border-[4px] border-dashed border-[#8B5CF6] rounded-[2.5rem] p-4 bg-transparent overflow-hidden"
             >
-              <img src="WhatsApp Image 2026-03-29 at 6.14.03 PM.jpeg" alt="Campaign Dashboard" className="w-full h-auto rounded-2xl shadow-sm" />
+              <img src="/WhatsApp Image 2026-03-29 at 6.14.03 PM.jpeg" alt="Campaign Dashboard" className="w-full h-auto rounded-2xl shadow-sm" />
             </motion.div>
 
             <div className="space-y-6">
@@ -160,7 +160,7 @@ export default function GrowthAndImpact() {
                   viewport={{ once: true }}
                   className="border-[4px] border-dashed border-[#8B5CF6] rounded-[2.5rem] p-4 bg-transparent overflow-hidden flex-1 flex items-center justify-center"
                 >
-                  <img src="WhatsApp Image 2026-03-29 at 6.14.03 PM.jpeg" alt="Influencer Stats" className="w-full h-auto rounded-2xl shadow-sm" />
+                  <img src="/WhatsApp Image 2026-03-29 at 6.14.03 PM.jpeg" alt="Influencer Stats" className="w-full h-auto rounded-2xl shadow-sm" />
                 </motion.div>
               </div>
             </div>
