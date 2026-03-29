@@ -2,20 +2,20 @@ import { motion } from "motion/react";
 
 const brands = [
   { name: "H3 PRE-SCHOOL", logo: "/01_Logo.webp" },
-  { name: "HAAY SKINCARE", logo: "/Screenshot 2026-03-28 193411.png" },
+  { name: "HAAY SKINCARE", logo: "/Screenshot_2026-03-28_193411.png" },
   { name: "THE ELEFANT", logo: "/H3-Preschool-Updated-Logo-e1729255476486.png" },
-  { name: "MY SAMBANDH", logo: "/Screenshot 2026-03-28 193329.png" },
-  { name: "MILKMOR", logo: "/Screenshot 2026-03-28 193426.png" },
+  { name: "MY SAMBANDH", logo: "/Screenshot_2026-03-28_193329.png" },
+  { name: "MILKMOR", logo: "/Screenshot_2026-03-28_193426.png" },
   { name: "SO BAR", logo: "/logo.png" },
-  { name: "OUTLINE", logo: "/Screenshot 2026-03-28 192321.png" },
-  { name: "PRAGEU EVENTS", logo: "/Screenshot 2026-03-28 192347.png" },
-  { name: "THE CHOCOLATE ROOM", logo: "/Screenshot 2026-03-28 192447.png" },
-  { name: "ELECSERVE", logo: "/Screenshot 2026-03-28 192520.png" },
-  { name: "QTOX", logo: "/Screenshot 2026-03-28 192535.png" },
-  { name: "ORTHOSPORT", logo: "/Screenshot 2026-03-28 192549.png" },
-  { name: "CHOCOLATE AND LOVE", logo: "/Screenshot 2026-03-28 192602.png" },
-  { name: "TRIVIO PHARMACY", logo: "/Screenshot 2026-03-28 192615.png" },
-  { name: "Q&Q RESEARCH INSIGHTS", logo: "/Screenshot 2026-03-28 195054.png" },
+  { name: "OUTLINE", logo: "/Screenshot_2026-03-28_192321.png" },
+  { name: "PRAGEU EVENTS", logo: "/Screenshot_2026-03-28_192347.png" },
+  { name: "THE CHOCOLATE ROOM", logo: "/Screenshot_2026-03-28_192447.png" },
+  { name: "ELECSERVE", logo: "/Screenshot_2026-03-28_192520.png" },
+  { name: "QTOX", logo: "/Screenshot_2026-03-28_192535.png" },
+  { name: "ORTHOSPORT", logo: "/Screenshot_2026-03-28_192549.png" },
+  { name: "CHOCOLATE AND LOVE", logo: "/Screenshot_2026-03-28_192602.png" },
+  { name: "TRIVIO PHARMACY", logo: "/Screenshot_2026-03-28_192615.png" },
+  { name: "Q&Q RESEARCH INSIGHTS", logo: "/Screenshot_2026-03-28_195054.png" },
 ];
 
 export default function BrandsWorkedFor() {

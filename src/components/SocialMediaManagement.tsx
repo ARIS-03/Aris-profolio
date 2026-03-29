@@ -37,7 +37,7 @@ export default function SocialMediaManagement() {
             </motion.div>
 
             <div className="flex justify-start pl-4">
-              <img src="/Screenshot 2026-03-28 193426.png" alt="Milkmor Logo" className="h-14 object-contain mix-blend-multiply" />
+              <img src="/Screenshot_2026-03-28_193426.png" alt="Milkmor Logo" className="h-14 object-contain mix-blend-multiply" />
             </div>
 
             <motion.div
@@ -65,7 +65,7 @@ export default function SocialMediaManagement() {
             </motion.div>
 
             <div className="flex justify-start pl-4">
-              <img src="/Screenshot 2026-03-28 193426.png" alt="Milkmor Logo" className="h-14 object-contain mix-blend-multiply" />
+              <img src="/Screenshot_2026-03-28_193426.png" alt="Milkmor Logo" className="h-14 object-contain mix-blend-multiply" />
             </div>
           </div>
 
@@ -130,7 +130,7 @@ export default function SocialMediaManagement() {
                     <svg className="w-3 h-3 text-white" fill="currentColor" viewBox="0 0 24 24"><path d="M18.71 19.5c-.83 1.24-1.71 2.45-2.48 2.48-.73.03-1.13-.41-1.96-.41-.83 0-1.27.4-1.93.43-.69.03-1.63-1.25-2.48-2.48-1.74-2.52-3.07-7.11-1.26-10.25 1.07-1.87 3-3.04 5.08-3.07 1.58-.03 3.07 1.06 4.03 1.06.96 0 2.73-1.31 4.6-1.11 1.87.2 3.31 1.05 4.1 2.2-3.88 2.29-3.25 7.28.74 9.56-.75 1.88-1.72 3.75-3.03 5.59z"/></svg>
                   </div>
                   <div className="absolute top-2 right-2">
-                    <img src="/Screenshot 2026-03-28 193426.png" alt="Logo" className="h-4 object-contain mix-blend-multiply brightness-0 invert" />
+                    <img src="/Screenshot_2026-03-28_193426.png" alt="Logo" className="h-4 object-contain mix-blend-multiply brightness-0 invert" />
                   </div>
                   <div className="absolute bottom-4 left-0 right-0 text-center px-1">
                     <p className="text-[9px] font-black text-white uppercase tracking-tighter drop-shadow-md">How to become a gir cow?</p>
@@ -143,7 +143,7 @@ export default function SocialMediaManagement() {
                     <svg className="w-3 h-3 text-white" fill="currentColor" viewBox="0 0 24 24"><path d="M18.71 19.5c-.83 1.24-1.71 2.45-2.48 2.48-.73.03-1.13-.41-1.96-.41-.83 0-1.27.4-1.93.43-.69.03-1.63-1.25-2.48-2.48-1.74-2.52-3.07-7.11-1.26-10.25 1.07-1.87 3-3.04 5.08-3.07 1.58-.03 3.07 1.06 4.03 1.06.96 0 2.73-1.31 4.6-1.11 1.87.2 3.31 1.05 4.1 2.2-3.88 2.29-3.25 7.28.74 9.56-.75 1.88-1.72 3.75-3.03 5.59z"/></svg>
                   </div>
                   <div className="absolute top-2 right-2">
-                    <img src="/Screenshot 2026-03-28 193426.png" alt="Logo" className="h-4 object-contain mix-blend-multiply brightness-0 invert" />
+                    <img src="/Screenshot_2026-03-28_193426.png" alt="Logo" className="h-4 object-contain mix-blend-multiply brightness-0 invert" />
                   </div>
                   <div className="absolute bottom-4 left-0 right-0 text-center px-1">
                     <p className="text-[9px] font-black text-white uppercase tracking-tighter drop-shadow-md">Why did you swipe?</p>
@@ -181,7 +181,7 @@ export default function SocialMediaManagement() {
               transition={{ delay: 0.2 }}
               className="rounded-2xl overflow-hidden shadow-2xl"
             >
-              <img src="/WhatsApp Image 2026-03-29 at 4.29.21 PM.jpeg" alt="Post 3" className="w-full h-auto" />
+              <img src="/WhatsApp_Image_2026-03-29_at_4.29.21_PM.jpeg" alt="Post 3" className="w-full h-auto" />
             </motion.div>
           </div>
         </div>

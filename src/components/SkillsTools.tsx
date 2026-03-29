@@ -19,7 +19,7 @@ const toolGroups = [
     tools: [
       { name: "Google Analytics", icon: <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" className="w-8 h-8 object-contain" alt="Google Analytics" referrerPolicy="no-referrer" /> },
       { name: "Google Trends", icon: <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" className="w-8 h-8 object-contain" alt="Google Trends" referrerPolicy="no-referrer" /> },
-      { name: "Google Search Console", icon: <img src="/images (1).jpeg" className="w-8 h-8 object-contain" alt="Google Search Console" referrerPolicy="no-referrer" /> },
+      { name: "Google Search Console", icon: <img src="/images_1.jpeg" className="w-8 h-8 object-contain" alt="Google Search Console" referrerPolicy="no-referrer" /> },
     ]
   },
   {
@@ -43,7 +43,7 @@ const toolGroups = [
     tools: [
       { name: "Meta Ads", icon: <img src="/images.png" className="w-8 h-8 object-contain" alt="Meta Ads" referrerPolicy="no-referrer" /> },
       { name: "Google Ads", icon: <img src="https://www.vectorlogo.zone/logos/google_ads/google_ads-icon.svg" className="w-8 h-8 object-contain" alt="Google Ads" referrerPolicy="no-referrer" /> },
-      { name: "Moengage", icon: <img src="/images (2).jpeg" className="w-8 h-8 object-contain" alt="Moengage" referrerPolicy="no-referrer" /> },
+      { name: "Moengage", icon: <img src="/images_2.jpeg" className="w-8 h-8 object-contain" alt="Moengage" referrerPolicy="no-referrer" /> },
     ]
   }
 ];

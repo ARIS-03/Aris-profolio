@@ -28,7 +28,7 @@ export default function LaunchPosts() {
               className="lg:col-span-4 shadow-2xl rounded-lg overflow-hidden"
             >
               <img 
-                src="/Screenshot 2026-03-29 191452.png" 
+                src="/Screenshot_2026-03-29_191452.png" 
                 alt="Launch Poster 1" 
                 className="w-full h-auto object-cover"
                 referrerPolicy="no-referrer"
@@ -62,7 +62,7 @@ export default function LaunchPosts() {
                 className="shadow-xl rounded-2xl overflow-hidden"
               >
                 <img 
-                  src="/Screenshot 2026-03-29 191529.png" 
+                  src="/Screenshot_2026-03-29_191529.png" 
                   alt="Performance Stats 1" 
                   className="w-full h-auto"
                   referrerPolicy="no-referrer"
@@ -81,7 +81,7 @@ export default function LaunchPosts() {
               className="lg:col-span-4 shadow-2xl rounded-lg overflow-hidden"
             >
               <img 
-                src="/Screenshot 2026-03-29 191545.png" 
+                src="/Screenshot_2026-03-29_191545.png" 
                 alt="Launch Poster 2" 
                 className="w-full h-auto object-cover"
                 referrerPolicy="no-referrer"
@@ -98,7 +98,7 @@ export default function LaunchPosts() {
                 className="shadow-xl rounded-2xl overflow-hidden"
               >
                 <img 
-                  src="/Screenshot 2026-03-29 191605.png" 
+                  src="/Screenshot_2026-03-29_191605.png" 
                   alt="Performance Stats 2" 
                   className="w-full h-auto"
                   referrerPolicy="no-referrer"

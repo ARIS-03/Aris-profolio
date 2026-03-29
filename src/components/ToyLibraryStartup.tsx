@@ -9,7 +9,7 @@ export default function ToyLibraryStartup() {
       {/* Elephant Icon */}
       <div className="absolute top-8 left-8 w-12 h-12">
         <img 
-          src="WhatsApp Image 2026-03-29 at 5.06.01 PM.jpeg" 
+          src="/WhatsApp_Image_2026-03-29_at_5.06.01_PM.jpeg" 
           alt="Elefant Icon" 
           className="w-full h-full object-contain mix-blend-multiply" 
         />
@@ -78,7 +78,7 @@ export default function ToyLibraryStartup() {
                 <div className="p-4">
                   <div className="flex items-center gap-4 mb-4">
                     <div className="w-16 h-16 rounded-full bg-white p-0.5">
-                      <img src="WhatsApp Image 2026-03-29 at 5.06.01 PM.jpeg" alt="Profile" className="w-full h-full object-contain rounded-full mix-blend-multiply" />
+                      <img src="/WhatsApp_Image_2026-03-29_at_5.06.01_PM.jpeg" alt="Profile" className="w-full h-full object-contain rounded-full mix-blend-multiply" />
                     </div>
                     <div className="flex-1 flex justify-between text-center text-[10px]">
                       <div><div className="font-bold">682</div><div>posts</div></div>
@@ -125,17 +125,17 @@ export default function ToyLibraryStartup() {
                   "Screenshot_2026-03-29-17-50-45-85_1c337646f29875672b5a61192b9010f9.jpg.jpeg",
                   "Screenshot_2026-03-29-17-51-09-01_1c337646f29875672b5a61192b9010f9.jpg.jpeg",
                   "IMG_20260329_170933.jpg.jpeg",
-                  "WhatsApp Image 2026-03-29 at 5.06.01 PM.jpeg",
+                  "WhatsApp_Image_2026-03-29_at_5.06.01_PM.jpeg",
                   "Screenshot_2026-03-29-17-47-09-26_1c337646f29875672b5a61192b9010f9.jpg.jpeg",
                   "Screenshot_2026-03-29-17-49-47-44_1c337646f29875672b5a61192b9010f9.jpg.jpeg",
                   "Screenshot_2026-03-29-17-50-45-85_1c337646f29875672b5a61192b9010f9.jpg.jpeg",
                   "Screenshot_2026-03-29-17-51-09-01_1c337646f29875672b5a61192b9010f9.jpg.jpeg",
                   "IMG_20260329_170933.jpg.jpeg",
-                  "WhatsApp Image 2026-03-29 at 5.06.01 PM.jpeg"
+                  "WhatsApp_Image_2026-03-29_at_5.06.01_PM.jpeg"
                 ].map((img, i) => (
                   <div key={i} className="aspect-[4/5] bg-gray-100 relative group overflow-hidden">
                     <img 
-                      src={img} 
+                      src={`/${img}`} 
                       alt={`Post ${i}`} 
                       className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110" 
                     />
