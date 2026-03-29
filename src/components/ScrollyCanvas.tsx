@@ -71,7 +71,7 @@ export default function ScrollyCanvas() {
         >
           <div className="relative">
             <img
-              src="src/components/WhatsApp Image 2026-03-28 at 4.10.48 PM.jpeg"
+              src="/WhatsApp Image 2026-03-28 at 4.10.48 PM.jpeg"
               alt="Aris Ahmed - Brand & Marketing Specialist"
               className="w-full h-auto object-cover rounded-b-full drop-shadow-2xl max-h-[600px]"
               referrerPolicy="no-referrer"
