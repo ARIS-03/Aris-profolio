@@ -75,7 +75,7 @@ export default function TheElefhant() {
             >
               <div className="w-full max-w-[380px] bg-[#121212] rounded-[2.8rem] border-[10px] border-[#121212] shadow-2xl overflow-hidden relative text-white aspect-[9/19]">
                 <img 
-                  src="/IMG_20260329_170933.jpg.jpeg" 
+                  src="/assets/IMG_20260329_170933.jpg.jpeg" 
                   alt="The Elefhant Feed" 
                   className="w-full h-full object-cover" 
                   referrerPolicy="no-referrer"
@@ -119,7 +119,7 @@ export default function TheElefhant() {
               <div className="grid grid-cols-2 gap-1 rounded-xl overflow-hidden relative">
                 <div className="aspect-square relative">
                   <img 
-                    src="/Screenshot_2026-03-29-17-49-47-44_1c337646f29875672b5a61192b9010f9.jpg.jpeg" 
+                    src="/assets/Screenshot_2026-03-29-17-49-47-44_1c337646f29875672b5a61192b9010f9.jpg.jpeg" 
                     alt="Elefhant Post 1" 
                     className="w-full h-full object-cover" 
                     referrerPolicy="no-referrer"
@@ -127,7 +127,7 @@ export default function TheElefhant() {
                 </div>
                 <div className="aspect-square relative">
                   <img 
-                    src="/Screenshot_2026-03-29-17-50-45-85_1c337646f29875672b5a61192b9010f9.jpg.jpeg" 
+                    src="/assets/Screenshot_2026-03-29-17-50-45-85_1c337646f29875672b5a61192b9010f9.jpg.jpeg" 
                     alt="Elefhant Post 2" 
                     className="w-full h-full object-cover" 
                     referrerPolicy="no-referrer"
@@ -148,7 +148,7 @@ export default function TheElefhant() {
               className="rounded-2xl overflow-hidden shadow-2xl"
             >
               <img 
-                src="/Screenshot_2026-03-29-17-49-47-44_1c337646f29875672b5a61192b9010f9.jpg.jpeg" 
+                src="/assets/Screenshot_2026-03-29-17-49-47-44_1c337646f29875672b5a61192b9010f9.jpg.jpeg" 
                 alt="Post 1" 
                 className="w-full h-auto" 
                 referrerPolicy="no-referrer"
@@ -162,7 +162,7 @@ export default function TheElefhant() {
               className="rounded-2xl overflow-hidden shadow-2xl"
             >
               <img 
-                src="/Screenshot_2026-03-29-17-50-45-85_1c337646f29875672b5a61192b9010f9.jpg.jpeg" 
+                src="/assets/Screenshot_2026-03-29-17-50-45-85_1c337646f29875672b5a61192b9010f9.jpg.jpeg" 
                 alt="Post 2" 
                 className="w-full h-auto" 
                 referrerPolicy="no-referrer"
@@ -176,7 +176,7 @@ export default function TheElefhant() {
               className="rounded-2xl overflow-hidden shadow-2xl"
             >
               <img 
-                src="/Screenshot_2026-03-29-17-51-09-01_1c337646f29875672b5a61192b9010f9.jpg.jpeg" 
+                src="/assets/Screenshot_2026-03-29-17-51-09-01_1c337646f29875672b5a61192b9010f9.jpg.jpeg" 
                 alt="Post 3" 
                 className="w-full h-auto" 
                 referrerPolicy="no-referrer"

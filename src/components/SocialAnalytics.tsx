@@ -26,7 +26,7 @@ export default function SocialAnalytics() {
               className="w-full shadow-2xl rounded-[2.5rem] overflow-hidden bg-white"
             >
               <img 
-                src="/Screenshot_2026-03-29_192546.png" 
+                src="/assets/Screenshot_2026-03-29_192546.png" 
                 alt="Facebook Analysis" 
                 className="w-full h-auto object-cover"
                 referrerPolicy="no-referrer"
@@ -52,7 +52,7 @@ export default function SocialAnalytics() {
               className="w-full shadow-2xl rounded-[2.5rem] overflow-hidden bg-white"
             >
               <img 
-                src="/Screenshot_2026-03-29_192602.png" 
+                src="/assets/Screenshot_2026-03-29_192602.png" 
                 alt="Instagram Analysis" 
                 className="w-full h-auto object-cover"
                 referrerPolicy="no-referrer"

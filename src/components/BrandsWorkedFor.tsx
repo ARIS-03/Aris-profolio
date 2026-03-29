@@ -1,21 +1,21 @@
 import { motion } from "motion/react";
 
 const brands = [
-  { name: "H3 PRE-SCHOOL", logo: "/01_Logo.webp" },
-  { name: "HAAY SKINCARE", logo: "/Screenshot_2026-03-28_193411.png" },
-  { name: "THE ELEFANT", logo: "/H3-Preschool-Updated-Logo-e1729255476486.png" },
-  { name: "MY SAMBANDH", logo: "/Screenshot_2026-03-28_193329.png" },
-  { name: "MILKMOR", logo: "/Screenshot_2026-03-28_193426.png" },
-  { name: "SO BAR", logo: "/logo.png" },
-  { name: "OUTLINE", logo: "/Screenshot_2026-03-28_192321.png" },
-  { name: "PRAGEU EVENTS", logo: "/Screenshot_2026-03-28_192347.png" },
-  { name: "THE CHOCOLATE ROOM", logo: "/Screenshot_2026-03-28_192447.png" },
-  { name: "ELECSERVE", logo: "/Screenshot_2026-03-28_192520.png" },
-  { name: "QTOX", logo: "/Screenshot_2026-03-28_192535.png" },
-  { name: "ORTHOSPORT", logo: "/Screenshot_2026-03-28_192549.png" },
-  { name: "CHOCOLATE AND LOVE", logo: "/Screenshot_2026-03-28_192602.png" },
-  { name: "TRIVIO PHARMACY", logo: "/Screenshot_2026-03-28_192615.png" },
-  { name: "Q&Q RESEARCH INSIGHTS", logo: "/Screenshot_2026-03-28_195054.png" },
+  { name: "H3 PRE-SCHOOL", logo: "/assets/01_Logo.webp" },
+  { name: "HAAY SKINCARE", logo: "/assets/Screenshot_2026-03-28_193411.png" },
+  { name: "THE ELEFANT", logo: "/assets/H3-Preschool-Updated-Logo-e1729255476486.png" },
+  { name: "MY SAMBANDH", logo: "/assets/Screenshot_2026-03-28_193329.png" },
+  { name: "MILKMOR", logo: "/assets/Screenshot_2026-03-28_193426.png" },
+  { name: "SO BAR", logo: "/assets/logo.png" },
+  { name: "OUTLINE", logo: "/assets/Screenshot_2026-03-28_192321.png" },
+  { name: "PRAGEU EVENTS", logo: "/assets/Screenshot_2026-03-28_192347.png" },
+  { name: "THE CHOCOLATE ROOM", logo: "/assets/Screenshot_2026-03-28_192447.png" },
+  { name: "ELECSERVE", logo: "/assets/Screenshot_2026-03-28_192520.png" },
+  { name: "QTOX", logo: "/assets/Screenshot_2026-03-28_192535.png" },
+  { name: "ORTHOSPORT", logo: "/assets/Screenshot_2026-03-28_192549.png" },
+  { name: "CHOCOLATE AND LOVE", logo: "/assets/Screenshot_2026-03-28_192602.png" },
+  { name: "TRIVIO PHARMACY", logo: "/assets/Screenshot_2026-03-28_192615.png" },
+  { name: "Q&Q RESEARCH INSIGHTS", logo: "/assets/Screenshot_2026-03-28_195054.png" },
 ];
 
 export default function BrandsWorkedFor() {
